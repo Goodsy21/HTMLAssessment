@@ -1,0 +1,19 @@
+h1{
+  font-style: normal;
+  color: blue;
+}
+p{
+  color: inherit;
+}
+#list1{
+  color: #29c2d4;
+}
+#list2 {
+  font-weight: bold;
+  font-style: Hello;
+}
+h1 {
+  font-family: cursive;
+  color: red;
+  .font40
+}
